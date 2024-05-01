@@ -2,6 +2,8 @@
 
 Welcome to my portfolio repository! This repository contains the source code and assets for my personal portfolio website. The website showcases my projects, skills, and professional background.
 
+''Sir Roy i don't know how to setup the static files on PythonAnywhere.com i watched several yt videos about setting up website using PythonAnywhere.com''
+
 ## Overview
 
 This portfolio website is a showcase of my work, including projects I've worked on, my professional background, and my skills. The website is built using HTML, CSS, and JavaScript, and uses a variety of libraries and frameworks to enhance its functionality and design.
